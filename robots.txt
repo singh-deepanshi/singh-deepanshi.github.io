@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://singh-deepanshi.github.io/sitemap.xml
